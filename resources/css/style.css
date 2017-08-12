@@ -16,10 +16,11 @@ h1 {
 }
 
 .text42 {
+  font-weight: 300;
   font-size: 42px;
 }
 
-.textgray {
+#textgray {
   font-size: 21px;
   color: gray;
 }
