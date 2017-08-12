@@ -1,8 +1,8 @@
 body {
   background-color: black;
   font-family: Verdana;
-  align-content: center;
   color: white;
+  text-align: center;
 }
 
 h1 {
@@ -25,6 +25,8 @@ h1 {
   color: gray;
 }
 
-#footer {
+.picture {}
+
+.footer {
   text-align: right;
 }
